@@ -3,7 +3,7 @@ region = "us-east-2"
 
 
 
-#Below code is used to set back end only
+#Below code is used to set backend only
 environment        = "ohio"
 s3_bucket          = "terraform-state-april-class-beto"
 s3_folder_project  = "jenkins"
